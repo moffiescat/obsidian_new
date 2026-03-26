@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "count/commit.md",
+                "file": "plan/3.26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commit"
+              "title": "3.26"
             }
           }
         ]
@@ -185,17 +185,28 @@
   },
   "active": "d7cdc12d55aceee8",
   "lastOpenFiles": [
-    "learn/test case fix.md",
-    "info/安装包路径.md",
+    "plan/3.25.md",
+    "plan/3.26.md",
     "count/commit.md",
+    "count/py_language.md",
+    "count/words.md",
+    "learn/缓存问题.md",
+    "info/redis.md",
+    "面经/影石insta360 AI系统开发实习面经分享.md",
+    "info/10.113.56.72改密.md",
+    "info/堡垒升级安装包路径.md",
+    "info/提交范式.md",
+    "info/docker.md",
+    "learn/docker.md",
+    "learn/test case fix.md",
+    "plan/3.23.md",
+    "plan/3.19.md",
+    "面经",
+    "plan",
     "skills/win+R.md",
     "count",
-    "info/docker.md",
     "Pasted image 20260310134751.png",
-    "info/范式.md",
     "skills",
-    "info/10.113.56.72改密.md",
-    "learn/docker.md",
     "learn",
     "欢迎.md",
     "info"
