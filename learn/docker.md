@@ -45,6 +45,7 @@
    docker pull mysql:latest 
 导出为tar包 
    docker save -o mysql-8.4-latest.tar mysql:latest
+   >docker save -o D:\Mid\mysql-8.0.tar mysql:8.0
 
  * 格式：
  docker exec -it 容器名/ID mysql -uroot -p 
