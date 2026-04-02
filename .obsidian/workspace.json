@@ -11,10 +11,14 @@
             "id": "d7cdc12d55aceee8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "plan/4.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2"
             }
           }
         ]
@@ -181,13 +185,17 @@
   },
   "active": "d7cdc12d55aceee8",
   "lastOpenFiles": [
+    "info/ai.md",
+    "plan/4.2.md",
+    "count/commit.md",
+    "count/py_language.md",
+    "count/words.md",
+    "面经/影石insta360 AI系统开发实习面经分享.md",
     "plan/total.md",
+    "plan/4.1.md",
     "plan/3.31.md",
     "plan/3.30.md",
-    "count/commit.md",
     "info/堡垒升级安装包路径.md",
-    "count/words.md",
-    "count/py_language.md",
     "learn/docker.md",
     "plan/3.27.md",
     "info/docker.md",
@@ -198,7 +206,6 @@
     "learn/缓存问题.md",
     "plan/3.25.md",
     "plan/3.26.md",
-    "面经/影石insta360 AI系统开发实习面经分享.md",
     "plan/3.23.md",
     "plan/3.19.md",
     "面经",
