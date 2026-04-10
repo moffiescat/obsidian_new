@@ -1,0 +1,2 @@
+  执行顺序：
+  FROM → WHERE → GROUP BY → HAVING → SELECT → ORDER BY
