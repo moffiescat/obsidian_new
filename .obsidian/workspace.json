@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn/docker.md",
+                "file": "技术/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "plan"
             }
           }
         ]
@@ -185,38 +185,40 @@
   },
   "active": "d7cdc12d55aceee8",
   "lastOpenFiles": [
-    "learn/缓存问题.md",
-    "info/docker.md",
-    "learn/MySQL.md",
-    "info/10.113.56.72改密.md",
-    "info/堡垒升级安装包路径.md",
+    "考公/plan.md",
+    "技术/plan.md",
+    "技术",
     "info/提交范式.md",
+    "考公",
+    "info/堡垒升级安装包路径.md",
+    "info/10.113.56.72改密.md",
+    "面经/影石insta360 AI系统开发实习面经分享.md",
+    "skills/win+R.md",
+    "learn/MySQL.md",
+    "learn/test case fix.md",
+    "learn/docker.md",
+    "learn/缓存问题.md",
+    "count/commit.md",
+    "count/words.md",
+    "count/py_language.md",
+    "info/docker.md",
     "info/redis.md",
     "plan/4.2.md",
     "info/ai.md",
-    "count/commit.md",
-    "count/py_language.md",
-    "count/words.md",
-    "面经/影石insta360 AI系统开发实习面经分享.md",
     "plan/total.md",
     "plan/4.1.md",
     "plan/3.31.md",
     "plan/3.30.md",
-    "learn/docker.md",
     "plan/3.27.md",
-    "learn/test case fix.md",
     "plan/3.25.md",
     "plan/3.26.md",
     "plan/3.23.md",
-    "plan/3.19.md",
     "面经",
     "plan",
-    "skills/win+R.md",
     "count",
     "Pasted image 20260310134751.png",
     "skills",
     "learn",
-    "欢迎.md",
     "info"
   ]
 }
